@@ -53,11 +53,11 @@ Ini contoh gambaran program ini menggunakan Flowchart
 
 ## TUGAS LAB 5
 
-![Latihan 2.1](https://github.com/HamdanAlWahidan/TUGAS_PERTEMUAN7/blob/main/Pertemuan7/latihan2.png) <br>
+![Latihan 2.1](https://github.com/HamdanAlWahidan/TUGAS_PERTEMUAN_9/blob/main/Pertemuan%209/3.png) <br>
 
-![Latihan 2.2](https://github.com/HamdanAlWahidan/TUGAS_PERTEMUAN7/blob/main/Pertemuan7/latihan2.png) <br>
+![Latihan 2.2](https://github.com/HamdanAlWahidan/TUGAS_PERTEMUAN_9/blob/main/Pertemuan%209/3.1.png) <br>
 
-![Latihan 2.3](https://github.com/HamdanAlWahidan/TUGAS_PERTEMUAN7/blob/main/Pertemuan7/latihan2.png) <br>
+![Latihan 2.3](https://github.com/HamdanAlWahidan/TUGAS_PERTEMUAN_9/blob/main/Pertemuan%209/3.2.png) <br>
 
 Di tugas ke dua, saya diminta untuk membuat program sederhana yang akan menampilkan daftar nilai mahasiswa. Maka saya memasukan script di bawah ini:
 ```
@@ -147,10 +147,10 @@ else:
 
 Jika sudah memasukan semua syntax diatas dan telah di run, maka kamu akan mendapatkan tampilan seperti gambar yang ada dibawah ini.
 
-![Foto Lat2](https://github.com/HamdanAlWahidan/TUGAS_PERTEMUAN7/blob/main/Lab3/Lab3.png) <br>
+![Foto Lat2](https://github.com/HamdanAlWahidan/TUGAS_PERTEMUAN_9/blob/main/Pertemuan%209/11.png) <br>
 
 Untuk fitur selebih nya bisa kalian coba sendiri menggunakan script di atas.
 Ini contoh gambaran program ini menggunakan Flowchart
 
-![Foto Lat3](https://github.com/HamdanAlWahidan/TUGAS_PERTEMUAN7/blob/main/Lab3/Lab3.1.png) <br>
+![Foto Lat3](https://github.com/HamdanAlWahidan/TUGAS_PERTEMUAN_9/blob/main/Pertemuan%209/contoh2.jpg) <br>
 ___________________________________________________________________________________________________
