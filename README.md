@@ -5,9 +5,9 @@ Jadi pada pertemuan ini saya diberikan beberapa tugas oleh dosen saya yaitu dian
 
 ## LAB 4
 
-![Latihan 1](https://github.com/HamdanAlWahidan/TUGAS_PERTEMUAN7/blob/main/Pertemuan7/latihan1.png) <br>
+![Latihan 1](https://github.com/HamdanAlWahidan/TUGAS_PERTEMUAN_9/blob/main/Pertemuan%209/2.png) <br>
 
-![Latihan 1.1](https://github.com/HamdanAlWahidan/TUGAS_PERTEMUAN7/blob/main/Pertemuan7/latihan1.png) <br>
+![Latihan 1.1](https://github.com/HamdanAlWahidan/TUGAS_PERTEMUAN_9/blob/main/Pertemuan%209/2.2.png) <br>
 
 Pada tugas LAB 4, saya diminta untuk membuat sebuah program menambahkan data ke sebuah list yang nantinya akan menghasilkan output seperti gambat diatas.
 Untuk bisa dapat menghasilkan output tersebut maka saya memasukan script:
@@ -45,11 +45,11 @@ for i in range(tambahdata):
 ```
 Jika sudah memasukan semua script diatas dan telah di run, maka kamu akan mendapatkan tampilan seperti gambar yang ada dibawah ini.
 
-![Foto Lat1](https://github.com/HamdanAlWahidan/TUGAS_PERTEMUAN7/blob/main/Lab3/Lab3.1.png) <br>
+![Foto Lat1](https://github.com/HamdanAlWahidan/TUGAS_PERTEMUAN_9/blob/main/Pertemuan%209/1.png) <br>
 
 Ini contoh gambaran program ini menggunakan Flowchart
 
-![Foto Lat1](https://github.com/HamdanAlWahidan/TUGAS_PERTEMUAN7/blob/main/Lab3/Lab3.1.png) <br>
+![Foto Lat1](https://github.com/HamdanAlWahidan/TUGAS_PERTEMUAN_9/blob/main/Pertemuan%209/contoh1.jpeg) <br>
 
 ## TUGAS LAB 5
 
